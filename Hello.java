@@ -11,6 +11,7 @@ public class Hello {
         System.out.println("Enter your name:");
         String na= name.nextLine();
         System.out.println("User name is "+na);
+        System.out.println("Hello"+na);
 
     }
 }
